@@ -1157,6 +1157,11 @@ footer h3{
 
     .language-switcher{
         transform:translateX(-0px);
+        margin-left: 10px;
+    }
+
+    .language-switcher button{
+        width: 70px;
     }
     .nav-links{
         gap:12px;
